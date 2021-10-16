@@ -1,3 +1,5 @@
+# 튜토리얼: GR Tech School (2020) Fire Detection System in Python using Opencv https://www.youtube.com/watch?v=2uxfqlDbVV4&ab_channel=GRTechSchool
+
 import cv2
 import os
 import numpy as np
